@@ -5,10 +5,13 @@ Hey there, Jorge here! Currently expanding my data analytical skills utilizing S
 
 
 ### 📘 Projects
+*‣* [SQL Music Library Analysis](https://github.com/jrgem/music_library/ "SQL Music Library Analysis") ★
+
+*‣* [Hospital Patient SQL Practice](https://github.com/jrgem/SQL-Practice/ "Hospital Patient SQL Practice")
 
 ### 📘 Tools
 *‣* Langauge: SQL
 
-*‣* Database: PostgreSQ and MySQL
+*‣* Database: PostgreSQL and MySQL
 
 *‣* Data Visualization: Tableau
