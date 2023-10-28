@@ -10,7 +10,7 @@ Hey there, Jorge here! Currently expanding my data analytical skills utilizing S
 *‣* [Hospital Patient SQL Practice](https://github.com/jrgem/SQL-Practice/ "Hospital Patient SQL Practice")
 
 ### 📘 Tools
-*‣* Langauge: SQL
+*‣* Langauge: SQL and Python (In progress)
 
 *‣* Database: PostgreSQL and MySQL
 
